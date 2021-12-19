@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="Code for Arduino emulation(Tinkercad)LR5.cpp" />
     <ClCompile Include="Code for Arduino emulation%28Tinkercad%29LR6.cpp" />
+    <ClCompile Include="Code for Arduino emulation(Tinkercad)LR7.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
