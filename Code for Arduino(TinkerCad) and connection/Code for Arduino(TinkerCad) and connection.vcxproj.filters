@@ -18,5 +18,8 @@
     <ClCompile Include="Code for Arduino emulation(Tinkercad)LR5.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Code for Arduino emulation%28Tinkercad%29LR6.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
